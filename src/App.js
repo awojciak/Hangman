@@ -222,7 +222,6 @@ class App extends Component {
 	}
 	
   render() {
-	  if(this)
     return (
       <div className="App">
 		<div className="left">
